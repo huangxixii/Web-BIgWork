@@ -6,7 +6,7 @@ header,
 }
 
 #intro {
-    background: url("../img/background.jpg")no-repeat center center fixed;
+    background: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb1-q.mafengwo.net%2Fs15%2FM00%2F2F%2F11%2FCoUBGV3blBWAGvQCAADKDtHlSq009.jpeg%3FimageView2%2F2%2Fw%2F680%2Fq%2F90&refer=http%3A%2F%2Fb1-q.mafengwo.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1623936511&t=eec69cc5e1d4baa692546e6592bc7689")no-repeat center center fixed;
     -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
     -moz-background-size: cover;    /* 针对Firefox浏览器 */
     -o-background-size: cover;      /* 针对Operallq */
